@@ -26,10 +26,6 @@
    - Blockchain Project Discovery  
    - Crypto Market Analysis & Trading  
    - Content Collaboration & Research  
-- **Roles:**  
-   - **Prompt Engineer:** At Lenmar Consulting Inc, crafting and optimizing AI prompts for decentralized tech and blockchain research.  
-   - **Cryptocurrency Instructor:** Educating enthusiasts in crypto trading at HBA Services.  
-   - **Affiliate Partner:** Collaborating with Bybit to guide cryptocurrency investments.  
 
 ---
 
@@ -49,13 +45,13 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shahid-raza&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=shahid-raza&show_icons=true&locale=en&count_private=true&hide_rank=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-raza" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-raza&hide_border=true&theme=light" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-raza&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-raza&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
