@@ -2,7 +2,7 @@
 <h3 align="center">Founder & CEO | AI Innovator | Web3.0, Crypto, & Blockchain Enthusiast</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=shahid-raza&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=razabuchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/innovative-businessman-using-ai-technologies-digital-interface-with-virtual-reality_1017-32863.jpg?w=740" />
@@ -45,13 +45,13 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shahid-raza&show_icons=true&locale=en&count_private=true&hide_rank=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=razabuchi&show_icons=true&locale=en&count_private=true&hide_rank=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahid-raza&hide_border=true&theme=light" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=razabuchi&hide_border=true&theme=light" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahid-raza&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razabuchi&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
